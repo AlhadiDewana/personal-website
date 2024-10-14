@@ -1,0 +1,29 @@
+.navbar{
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+body{
+    background-color: #151515;
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}
+
+#name{
+    float: left;
+    margin-top: 200px;
+    margin-left: 450px;
+}
+
+#profile{
+    float: left;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+#foto{
+    height: 150px;
+    width: 200px;
+}

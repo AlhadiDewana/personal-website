@@ -6,20 +6,20 @@ body {
   }
   
   h2 {
-    color: #ffcc00;
+    color: #078962;
   }
   
   #foto {
-    border: 5px solid #ffcc00;
+    border: 5px solid #078962;
     width: 200px;
-    box-shadow: 0 0 20px rgba(255, 204, 0, 0.5);
+    box-shadow: 0 0 20px rgba(32, 73, 60, 0.5);
   }
   
   .tech-box {
     background-color: #1c1c1c;
     padding: 20px;
     border-radius: 10px;
-    border: 2px solid #ffcc00;
+    border: 2px solid #078962;
     transition: transform 0.3s ease-in-out;
   }
   
@@ -34,7 +34,7 @@ body {
   }
   
   .tech-box p {
-    color: #ffcc00;
+    color: #078962;
     margin-top: 10px;
     font-size: 1.2rem;
   }
